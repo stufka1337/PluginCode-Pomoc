@@ -1,0 +1,8 @@
+main: me.plugincode.pomoc.main.Main
+name: PluginCode-Pomoc
+version: 1.0
+author: _stufka1337
+
+commands:
+   pomoc:
+   
